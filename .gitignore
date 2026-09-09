@@ -1,0 +1,20 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.class
+*.jar
+build/
+bin/
+target/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+*.aux
+*.log
+*.out
